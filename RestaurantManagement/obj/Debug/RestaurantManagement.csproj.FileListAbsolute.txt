@@ -1,0 +1,15 @@
+D:\Database1\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+D:\Database1\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+D:\Database1\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.AssemblyReference.cache
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Form1.resources
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.cache
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.CoreCompileInputs.cache
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Main.resources
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Food.resources
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Customer.resources
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Order.resources
+D:\Database1\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Payment.resources
